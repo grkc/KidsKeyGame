@@ -1,0 +1,14 @@
+{
+  "name": "hellokids",
+  "version": "1.0.0",
+  "description": "pixiJSTask",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grck",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^5.3.7"
+  }
+}

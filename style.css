@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#info {
+    position: fixed;
+    top: 3%;
+    left: 6%;
+    font-size: larger;
+}
+
+#leftovers {
+    position: fixed;
+    top: 15%;
+    left: 6%;
+    font-size: larger;
+}
